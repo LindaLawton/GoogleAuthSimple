@@ -1,0 +1,12 @@
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.Auth.resources
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.Access.resources
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.Properties.Resources.resources
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.csproj.GenerateResource.Cache
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\bin\Debug\GoogleAuthWinForm.exe
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\bin\Debug\GoogleAuthWinForm.pdb
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.exe
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.pdb
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\bin\Debug\GoogleAuthWinForm.exe.config
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\obj\x86\Debug\GoogleAuthWinForm.csprojResolveAssemblyReference.cache
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\bin\Debug\Newtonsoft.Json.dll
+K:\Development\GoogleAuthWinForm\GoogleAuthWinForm\bin\Debug\Newtonsoft.Json.xml
